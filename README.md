@@ -32,7 +32,7 @@ Este repositório contém exercícios de **Python e NumPy** realizados no **Goog
 1. Abra o **Google Colab**.
 2. Copie o link abaixo ou abra diretamente o arquivo:
 
-[📂 Link do Colab com os exercícios]((https://colab.research.google.com/drive/1qCwVQ5riDnsDKKDvLOEzOOXf0Mh4TcUY?usp=sharing))
+[📂 Link do Colab com os exercícios](https://colab.research.google.com/drive/1qCwVQ5riDnsDKKDvLOEzOOXf0Mh4TcUY?usp=sharing)
 
 3. Execute cada célula para ver os resultados e explicações detalhadas.
 
